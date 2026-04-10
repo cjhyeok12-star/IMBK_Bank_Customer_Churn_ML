@@ -49,6 +49,7 @@ Random Forest, LightGBM, XGBoost, Gradient Boosting
 
 <img width="948" height="685" alt="image" src="https://github.com/user-attachments/assets/62d06698-9317-44c5-918a-8dc47a0d9ef5" />
 
+<img width="284" height="54" alt="image" src="https://github.com/user-attachments/assets/7f363967-ffe8-42e9-af8d-07c88225f7d0" />
 
 - ### ML 선정 기준
 
