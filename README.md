@@ -22,8 +22,7 @@ pandas, numpy, train_test_split, RandomForestClassifier, GradientBoostingClassif
 
 <img width="1028" height="225" alt="image" src="https://github.com/user-attachments/assets/c77a9ad9-4849-4d07-9fda-8d64c7ef84d8" />
 
-<img width="1072" height="487" alt="image" src="https://github.com/user-attachments/assets/acb982e2-6442-4e7e-8beb-9ac9454d4d20" />
-
+<img width="1074" height="484" alt="image" src="https://github.com/user-attachments/assets/c4af4e94-9d66-4bfe-944a-97d2034f9a05" />
 
 customer_id를 제거했는데, 그 이유는 아이디는 **단순한 일련번호**라서 고객의 이탈 여부와는 아무런 상관이 없다고 판단했습니다. 만일 아이디를 지우지 않고 그대로 모델에 학습했다면 우연을 패턴으로 착각하여 Overfitting이 올 수 있기 때문에 제거하였습니다.
 
