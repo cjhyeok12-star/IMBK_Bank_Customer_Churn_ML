@@ -58,6 +58,9 @@ Random Forest, LightGBM, XGBoost, Gradient Boosting
 
 이렇게 두 차례에 걸쳐 단일 모델 성능을 뽑아냈고, 그 결과 RandomForest는 0.5813, LightGBM는 0.5938, XGBoost는 0.5763, GradientBoosting는 0.6057라는 성능을 알 수 있었습니다.
 
+<img width="976" height="558" alt="image" src="https://github.com/user-attachments/assets/5bb80afc-745b-4baf-aa87-c5d8b2f14bfe" />
+
+
 ## 인사이트 제안:
 
 빨간색 점은 나이가 많은 고연령층을 뜻하고, 파란색 점은 나이가 적은 저연령층을 말합니다.
