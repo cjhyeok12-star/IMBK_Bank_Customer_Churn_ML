@@ -60,6 +60,9 @@ Random Forest, LightGBM, XGBoost, Gradient Boosting
 
 <img width="335" height="141" alt="image" src="https://github.com/user-attachments/assets/c41ef37e-0d43-424e-9600-36366d9348d0" />
 
+<img width="948" height="685" alt="image" src="https://github.com/user-attachments/assets/62d06698-9317-44c5-918a-8dc47a0d9ef5" />
+
+
 # ML 선정 기준
 
 먼저 Pycaret을 이용해, 수많은 머신러닝 모델 중에 어떤 모델을 사용하면 좋을지 1차적으로 선별을 하였습니다. 그 중에서 F1_score가 괜찮게 나온 상위의 모델 중에 제가 배우고 익숙한 4개의 모델을 선정하였습니다.
