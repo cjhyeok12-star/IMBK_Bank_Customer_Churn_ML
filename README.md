@@ -63,7 +63,8 @@ Random Forest, LightGBM, XGBoost, Gradient Boosting
 
 ## 인사이트 제안:
 
-<img width="702" height="125" alt="image" src="https://github.com/user-attachments/assets/11a2a62c-e9e2-4259-b207-302474425706" />
+<img width="686" height="115" alt="image" src="https://github.com/user-attachments/assets/e028b03e-d5a8-43fc-aa60-713f66efecd3" />
+
 
 빨간색 점은 나이가 많은 고연령층을 뜻하고, 파란색 점은 나이가 적은 저연령층을 말합니다.
 
