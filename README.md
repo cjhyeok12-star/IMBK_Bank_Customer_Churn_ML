@@ -66,8 +66,6 @@ Random Forest, LightGBM, XGBoost, Gradient Boosting
 
 <img width="686" height="115" alt="image" src="https://github.com/user-attachments/assets/e028b03e-d5a8-43fc-aa60-713f66efecd3" />
 
-
-
 빨간색 점은 나이가 많은 고연령층을 뜻하고, 파란색 점은 나이가 적은 저연령층을 말합니다.
 
 그리고 오른쪽인 (+) 방향으로 간다면 이탈을 높이는 요인이라는 뜻이고, (-)로 간다면 이탈을 막아주는 요인이라고 볼 수 있습니다.
