@@ -6,31 +6,7 @@
 
 # 기술스택:
 
-import pandas as pd # pandas 사용
-
-import numpy as np # numpy 사용
-
-from sklearn.model_selection import train_test_split # train_test_split 사용
-
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, StackingClassifier # RandomForestClassifier, GradientBoostingClassifier, StackingClassifier 사용
-
-from sklearn.metrics import f1_score # f1_score 사용
-
-from sklearn.preprocessing import LabelEncoder, StandardScaler # LabelEncoder, StandardScaler 사용
-
-from sklearn.ensemble import RandomForestClassifier, StackingClassifier # RandomForestClassifier, StackingClassifier 사용
-
-from xgboost import XGBClassifier # XGBClassifier 사용
-
-from lightgbm import LGBMClassifier # LGBMClassifier 사용
-
-from sklearn.linear_model import LogisticRegression # LogisticRegression 사용
-
-import optuna # optuna 사용
-import shap # shap 사용
-import matplotlib.pyplot as plt # matplotlib.pyplot 사용
-import seaborn as sns # seaborn 사용
-import platform # platform 사용
+pandas, numpy, rain_test_split, RandomForestClassifier, GradientBoostingClassifier, StackingClassifier, f1_score, LabelEncoder, StandardScaler, RandomForestClassifier, StackingClassifier, XGBClassifier, LGBMClassifier, LogisticRegression, optuna, shap, matplotlib.pyplot, seaborn, platform
 
 # 데이터 출처: 
 
